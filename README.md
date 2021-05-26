@@ -8,5 +8,5 @@ Calcutor project. Challenging myself ny doing JavaScript challenges
 - onclick attribute on html button 
 
 ### thoughts 
--After learning about eval the calculator was not as hard as I initially thought
+- After learning about eval the calculator was not as hard as I initially thought
 although i had to google a lot of things.
